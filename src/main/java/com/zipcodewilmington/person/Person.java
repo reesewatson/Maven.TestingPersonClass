@@ -14,11 +14,11 @@ public class Person {
 
 
     public Person() {
-        this.name = "";
-        this.age = Integer.MAX_VALUE;
-        this.gender = "";
-        this.bloodDonor = "";
-        this.weight = 0.0;
+        this.name = "Bob Marley";
+        this.age = 35;
+        this.gender = "M";
+        this.bloodDonor = "Y";
+        this.weight = 150.0;
     }
 
     public Person(int age) {
